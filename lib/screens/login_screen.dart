@@ -560,8 +560,8 @@ class _LoginScreenState extends State<LoginScreen>
                                             Colors.blue),
                                         _buildDemoCard(
                                             '👔 Directeur',
-                                            'mariemartin@gmail.com',
-                                            'dir123',
+                                            'kaunda@gmail.com',
+                                            'simon123',
                                             Colors.purple),
                                       ],
                                     ),

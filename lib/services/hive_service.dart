@@ -40,13 +40,13 @@ class HiveService {
       );
       await userBox.put(fideleMasengo.id, fideleMasengo);
 
-      // Directeur
+      // Directeur: KAUNDA NDOMBELE Simon
       final directeur = Utilisateur(
         id: 'user_2',
-        nom: 'Marie Martin',
-        email: 'mariemartin@gmail.com',
+        nom: 'KAUNDA NDOMBELE Simon',
+        email: 'kaunda@gmail.com',
         role: 'directeur',
-        motDePasse: 'dir123',
+        motDePasse: 'simon123',
         matricule: 'DIR001',
       );
       await userBox.put(directeur.id, directeur);
